@@ -1,3 +1,4 @@
 # coading-worlds
-This is my first repository
-author - nikhil kumar
+This is my first repository.
+<br>
+Author - nikhil kumar
